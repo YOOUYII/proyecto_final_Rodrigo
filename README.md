@@ -23,4 +23,4 @@ Para desplegar este proyecto en GitHub Pages, sigue estos pasos:
    - En la opción **"Source"**, selecciona la rama principal  (main)
    - Guarda los cambios.
 
-3. **Accede al enlace**: Una vez que GitHub Pages esté configurado, tu proyecto será accesible en la URL proporcionada, que generalmente sigue este formato:
+3. **Accede al enlace**: Una vez que GitHub Pages esté configurado, tu proyecto será accesible en la URL proporcionada
