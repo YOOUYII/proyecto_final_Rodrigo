@@ -20,7 +20,7 @@ Para desplegar este proyecto en GitHub Pages, sigue estos pasos:
 2. **Habilita GitHub Pages**:
    - Dirígete a la pestaña **"Settings"** de tu repositorio.
    - Baja hasta la sección **"Pages"**.
-   - En la opción **"Source"**, selecciona la rama principal  (main)
+   - En la opción **"Branch"**, selecciona la rama principal  (main)
    - Guarda los cambios.
 
 3. **Accede al enlace**: Una vez que GitHub Pages esté configurado, tu proyecto será accesible en la URL proporcionada
